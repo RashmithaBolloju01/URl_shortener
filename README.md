@@ -39,7 +39,7 @@ url-shortener/
 ## How to Run
 
 Clone the repository:
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/RashmithaBolloju01/URl_shortener.git
 cd url-shortener
 Install dependencies:
 npm install
