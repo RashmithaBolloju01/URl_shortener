@@ -1,4 +1,4 @@
-# URL Shortener**
+# URL Shortener
 
 URL Shortener is a lightweight front-end application that generates compact, shareable links from long URLs. Designed with modern development tools and a responsive UI, it provides a simple, fast, and accessible way to shorten URLs — ideal for integration into larger content-sharing platforms or solo use.
 
